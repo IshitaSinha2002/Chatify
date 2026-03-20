@@ -1,5 +1,3 @@
-# Chatify
-A chatting application built using ReactJS and Firebase
 <h1>Chatify</h1>
 <p>A chatting application built using ReactJS and Firebase</p>
 <h3>Register Page</h3>
